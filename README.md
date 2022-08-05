@@ -34,3 +34,15 @@ The repository is new, and it needs a lot of assets to become a hub for new Magi
 gmail: saadabou.study@gmail.com;<br />
 Website: [morphine Lollipop](https://ssenseii.github.io/MorphineLollipop/) (*it's still in developement + I'm building another soon*)<br />
 
+## Can I make request?
+
+I'll make a website soon for the assets, There you'll be able to put in your requests and search for the assets by name or tag.
+
+### Info About the Object models
+
+- ratio: 40 x 40 x 40<br />
+- Some are scaled appropriately (*ex: chalkboard is at 80 x 40 x 50*)
+- Editable using the magicavoxel software.<br />
+- You can scale them by selecting the entire model and using the scale option in the right menu. (*I'll add a tutorial someday*)<br />
+- .vox file format<br />
+- can be used with threejs. <br />
