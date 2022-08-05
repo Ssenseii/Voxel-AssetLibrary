@@ -25,9 +25,9 @@ The repository is new, and it needs a lot of assets to become a hub for new Magi
 
 ## Why are you making free assets?
 
-I'd like to contribute to a community with my skills.<br />
-I'd like to see people create wonderfull things.<br />
-I'd like to have something to do when I'm tired of my other projects. (*Working with this software is fun and keeps my sanity well*)<br />
+- I'd like to contribute to a community with my skills.<br />
+- I'd like to see people create wonderfull things.<br />
+- I'd like to have something to do when I'm tired of my other projects. (*Working with this software is fun and keeps my sanity well*)<br />
 
 ## Contact?
 
